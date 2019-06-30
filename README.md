@@ -35,7 +35,7 @@ _No Known Bugs🐛🐞_
 
 ## Support and contact details
 
-_If you have any questions or concerns please contact us at PupsterEpicodusTeam@gmail.com_
+_If you have any questions or concerns please contact us._
 
 ## Technologies Used
 
