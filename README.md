@@ -1,6 +1,9 @@
 # _Pupster_
 
-#### _Stuff about the app here_
+![site image](/Pupster/wwwroot/img/pupster.png)
+
+
+#### _Web application that allows users to be matched to a local shelter dog via a short quiz._
 
 #### By _**Lindsey Baker, Kaya Jepson, Heather Zurek, Kerriann Walker**_
 
@@ -32,10 +35,6 @@
 ## Known Bugs
 
 _No Known Bugs🐛🐞_
-
-## Support and contact details
-
-_If you have any questions or concerns please contact us._
 
 ## Technologies Used
 
